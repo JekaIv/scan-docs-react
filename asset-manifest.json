@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scan-docs-react,/static/css/main.91eadf35.css",
+    "main.js": "/scan-docs-react,/static/js/main.19cdaf63.js",
+    "index.html": "/scan-docs-react,/index.html",
+    "main.91eadf35.css.map": "/scan-docs-react,/static/css/main.91eadf35.css.map",
+    "main.19cdaf63.js.map": "/scan-docs-react,/static/js/main.19cdaf63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91eadf35.css",
+    "static/js/main.19cdaf63.js"
+  ]
+}
